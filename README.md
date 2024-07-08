@@ -24,3 +24,11 @@ I've been learning cybersecurity for a year, after switching careers. I started 
 </picture> 
 </a> 
 </p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yasserbella&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yasserbella&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
