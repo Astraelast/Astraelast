@@ -25,7 +25,7 @@ I've been learning cybersecurity for a year, after switching careers. I started 
 </a> 
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yasserbella&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
