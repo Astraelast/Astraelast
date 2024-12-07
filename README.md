@@ -1,12 +1,10 @@
-Hi 👋 My name is Yasser Bella
-================================
+Hi 👋 My name is Yasser Bella  
 
-ML/AI Engineer
---------------
+Cybersecurity Engineer  
 
-I'm an AI/ML Engineer with a deep passion for artificial intelligence and machine learning. My journey began in cybersecurity, but I've since transitioned into the world of AI, where I focus on building intelligent systems and creating impactful AI-driven solutions.
+I'm a Cybersecurity Engineer with a strong focus on protecting systems and data. My journey began with a fascination for technology, and I’ve dedicated myself to mastering the art of cybersecurity, building secure infrastructures, and developing solutions to counter modern threats.  
 
-* 🌍  I'm based in Europe and the USA
+* 🌍 I'm based in Morocco  
 * ✉️  You can contact me at: http://lnkiy.in/mydiscord
 
 ### Skills
