@@ -1,38 +1,40 @@
-Hi 👋 My name is Yasser Bella  
+Hi 👋 My name is **Astrael**  
 
-Cybersecurity Engineer  
+**Ethical Hacker | Red Team Member**  
 
-I'm a Cybersecurity Engineer with a strong focus on protecting systems and data. My journey began with a fascination for technology, and I’ve dedicated myself to mastering the art of cybersecurity, building secure infrastructures, and developing solutions to counter modern threats.  
+I'm an ethical hacker dedicated to mastering the art of penetration testing and identifying vulnerabilities in systems. My journey began with a fascination for technology, and I’ve committed myself to developing solutions to counter modern threats.  
 
-* 🌍 I'm based in Morocco  
-* ✉️  You can contact me at: http://lnkiy.in/mydiscord
+* ✉️ You can contact me at: [My Twitter Profile](https://twitter.com/AstraelAST)
 
 ### Skills
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  <a href="https://www.kali.org" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kali_Linux_Logo.svg/512px-Kali_Linux_Logo.svg.png" alt="kali" width="40" height="40"/> 
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+  <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.parrotsec.org/images/logo.svg" alt="parrot" width="40" height="40"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://www.nmap.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://nmap.org/images/nmap-logo.png" alt="nmap" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
+  <a href="https://www.metaspoloit.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.metasploit.com/img/metasploit-logo-1.svg" alt="metasploit" width="40" height="40"/> 
+  </a>
+  <a href="https://owasp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://owasp.org/images/owasp-logo.png" alt="owasp" width="40" height="40"/> 
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.wireshark.org/assets/logo/wireshark-logo.svg" alt="wireshark" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cobaltstrike.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cobaltstrike.com/images/cs_logo_color.svg" alt="cobaltstrike" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sans.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.sans.org/media/landing/2021/02/02/sans_logo_full.png" alt="sans" width="40" height="40"/> 
+  </a>
+  <a href="https://www.oscp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.offensive-security.com/wp-content/uploads/2020/12/logo-offensive-security.png" alt="oscp" width="40" height="40"/> 
   </a>
 </p>
 
@@ -51,7 +53,3 @@ I'm a Cybersecurity Engineer with a strong focus on protecting systems and data.
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yasserbella&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=yasserbella&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
