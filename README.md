@@ -6,6 +6,19 @@ I’m a passionate ethical hacker and red team enthusiast with a deep commitment
 
 * ✉️ You can contact me at: [My Twitter Profile](https://twitter.com/AstraelAST)
 
+### Certifications
+
+- Offensive Security Certified Professional (OSCP)
+- Certified Red Team Operator (CRTO)
+- GIAC Penetration Tester (GPEN)
+- Certified Ethical Hacker (CEH)
+- Offensive Security Wireless Professional (OSWP)
+- Practical Network Penetration Tester (PNPT)
+- GIAC Exploit Researcher and Advanced Penetration Tester (GXPN)
+- Certified Penetration Testing Engineer (CPTE)
+- eLearnSecurity Certified Professional Penetration Tester (eCPPT)
+- CompTIA PenTest+
+
 ### Skills
 
 - Penetration Testing
