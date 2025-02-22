@@ -9,32 +9,29 @@ I'm an ethical hacker dedicated to mastering the art of penetration testing and 
 ### Skills
 
 <p align="left">
-  <a href="https://www.kali.org" target="_blank" rel="noreferrer"> 
-    <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kali_Linux_Logo.svg/512px-Kali_Linux_Logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWb4XCIcMpF6J3-37LaMWassk71PPNVWU7Qw&s)](https://parrotsec.org/docs/introduction/what-is-parrot/)" alt="kali" width="40" height="40"/> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> 
   </a>
-  <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.parrotsec.org/images/logo.svg" alt="parrot" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nmap.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://nmap.org/images/nmap-logo.png" alt="nmap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.metaspoloit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.metasploit.com/img/metasploit-logo-1.svg" alt="metasploit" width="40" height="40"/> 
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="azure" width="40" height="40"/> 
   </a>
-  <a href="https://owasp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://owasp.org/images/owasp-logo.png" alt="owasp" width="40" height="40"/> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.wireshark.org/assets/logo/wireshark-logo.svg" alt="wireshark" width="40" height="40"/> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> 
   </a>
-  <a href="https://www.cobaltstrike.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cobaltstrike.com/images/cs_logo_color.svg" alt="cobaltstrike" width="40" height="40"/> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://www.sans.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.sans.org/media/landing/2021/02/02/sans_logo_full.png" alt="sans" width="40" height="40"/> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>
-  <a href="https://www.oscp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.offensive-security.com/wp-content/uploads/2020/12/logo-offensive-security.png" alt="oscp" width="40" height="40"/> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
   </a>
 </p>
 
