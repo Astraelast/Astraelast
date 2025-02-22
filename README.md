@@ -12,33 +12,17 @@ I'm an ethical hacker dedicated to mastering the art of penetration testing and 
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali" width="40" height="40"/> 
   </a>
-  <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.parrotsec.org/images/logo.png" alt="parrot" width="40" height="40"/> 
-  </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
     <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="40" height="40"/> 
   </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.metasploit.com/images metasploit-framework-logo.png" alt="metasploit" width="40" height="40"/> 
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.wireshark.org/assets/images/wireshark_logo.png" alt="wireshark" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cobaltstrike.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.cobaltstrike.com/images/logo.png" alt="cobaltstrike" width="40" height="40"/> 
-  </a>
-  <a href="https://www.offensive-security.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.offensive-security.com/images/offsec-logo.png" alt="offsec" width="40" height="40"/> 
-  </a>
-  <a href="https://www.burpsuite.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://portswigger.net/burp/images/burp-suite-logo.png" alt="burpsuite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.hydra. THC.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.thc.org/thc-hydra/thc-hydra-logo.png" alt="hydra" width="40" height="40"/> 
-  </a>
-  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.aircrack-ng.org/img/aircrack-ng.png" alt="aircrack" width="40" height="40"/> 
-  </a>
+  <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer">Parrot Security</a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">Metasploit</a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">Wireshark</a>
+  <a href="https://www.cobaltstrike.com/" target="_blank" rel="noreferrer">Cobalt Strike</a>
+  <a href="https://www.offensive-security.com/" target="_blank" rel="noreferrer">Offensive Security</a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">Burp Suite</a>
+  <a href="https://www.thc.org/thc-hydra/" target="_blank" rel="noreferrer">Hydra</a>
+  <a href="https://www.aircrack-ng.org/" target="_blank" rel="noreferrer">Aircrack-ng</a>
 </p>
 
 ### Socials
