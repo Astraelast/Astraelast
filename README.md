@@ -10,7 +10,7 @@ I'm an ethical hacker dedicated to mastering the art of penetration testing and 
 
 <p align="left">
   <a href="https://www.kali.org" target="_blank" rel="noreferrer"> 
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kali_Linux_Logo.svg/512px-Kali_Linux_Logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWb4XCIcMpF6J3-37LaMWassk71PPNVWU7Qw&s)" alt="kali" width="40" height="40"/> 
+    <img src="[[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kali_Linux_Logo.svg/512px-Kali_Linux_Logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWb4XCIcMpF6J3-37LaMWassk71PPNVWU7Qw&s)](https://parrotsec.org/docs/introduction/what-is-parrot/)" alt="kali" width="40" height="40"/> 
   </a>
   <a href="https://www.parrotsec.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.parrotsec.org/images/logo.svg" alt="parrot" width="40" height="40"/> 
