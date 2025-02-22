@@ -2,7 +2,7 @@ Hi 👋 My name is **Astrael**
 
 **Ethical Hacker | Red Team Member**  
 
-I'm an ethical hacker dedicated to mastering the art of penetration testing and identifying vulnerabilities in systems. My journey began with a fascination for technology, and I’ve committed myself to developing solutions to counter modern threats.  
+I’m a passionate ethical hacker and red team enthusiast with a deep commitment to securing systems through advanced penetration testing, vulnerability assessment, and adversary emulation. My journey started with a curiosity for technology and has evolved into a mission to master skills like exploit development, network security analysis, and post-exploitation techniques. I thrive on uncovering weaknesses before they can be exploited, designing robust defenses, and staying ahead of modern threats.  
 
 * ✉️ You can contact me at: [My Twitter Profile](https://twitter.com/AstraelAST)
 
